@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @agarciam980902
+- 👀 I’m interested in learning to code for data science, travelling, reading good books and spending time with friends and family
+- 🌱 I’m currently learning python, SQL applied on an economics master.
+- 💞️ I’m looking to collaborate on anything that can allow me to continue to grow and improve. 
+- 📫 How to reach me email: a.garciam@student.ie.edu & linkedin: https://www.linkedin.com/in/a-garciam/
+- ⚡ Fun fact: I speak three languages and I am a very patriotic Colombian, always keen on giving you any travel tip when needed!
